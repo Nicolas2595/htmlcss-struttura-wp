@@ -36,7 +36,7 @@ main::after {
     clear: both;
 }
 
-#sezione1 {
+.sezione1 {
     float: none;
     width: 100%;
     height: 50px;
@@ -44,7 +44,7 @@ main::after {
     background-color: #abcfe7;
 }
 
-#sezione2 {
+.sezione2 {
     float: left;
     height: 300px;
     width: 23%;
@@ -52,7 +52,7 @@ main::after {
     background-color: #abcfe7;
 }
 
-#sezione3 {
+.sezione3 {
     float: left;
     height: 300px;
     width: 50%;
@@ -61,7 +61,7 @@ main::after {
     background-color: #abcfe7;
 }
 
-#sezione4 {
+.sezione4 {
     float: right;
     height: 300px;
     width: 23%;
